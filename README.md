@@ -4,7 +4,7 @@ Welcome to my CV projects repository! This repository contains a collection of C
 
 ## Overview
 
-- [Project 1: CV Detecting and measuring objects](./Detecting%20and%20measuring%20objects)
+- [Project 1: Detecting and measuring objects](./Detecting%20and%20measuring%20objects)
 - ...
 
 ## Getting Started

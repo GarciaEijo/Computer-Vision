@@ -4,7 +4,7 @@ Welcome to my CV projects repository! This repository contains a collection of C
 
 ## Overview
 
-- [Project 1: CV Counting and measuring objects](./NLP%20Basics)
+- [Project 1: CV Detecting and measuring objects](./NLP%20Basics)
 - ...
 
 ## Getting Started

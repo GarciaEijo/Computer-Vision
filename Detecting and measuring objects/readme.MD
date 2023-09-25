@@ -1,6 +1,6 @@
 # Computer Vision
 
-## Description of "Detecting and measuring objects" Code
+## Description of the "Detecting and measuring objects" Code
 
 This code snippet performs image processing tasks and annotates the processed image with the dimensions of identified objects. Here's a breakdown of the key steps:
 

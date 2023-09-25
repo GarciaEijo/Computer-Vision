@@ -4,9 +4,7 @@ Welcome to my CV projects repository! This repository contains a collection of C
 
 ## Overview
 
-- [Project 1: CV Detecting and measuring objects](./NLP%20Basics)
-
-GarciaEijo/Computer-Vision/detecting_and_measuring_objects.ipynb
+- [Project 1: CV Detecting and measuring objects](./Detecting%and%measuring%objects)
 - ...
 
 ## Getting Started
